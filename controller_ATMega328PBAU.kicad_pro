@@ -428,7 +428,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "Snapeda"
+    ]
   },
   "meta": {
     "filename": "controller_ATTiny40SU.kicad_pro",
